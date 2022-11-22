@@ -2,9 +2,13 @@
 Contents:
 
 Artificial Intelligence: AI
+
 AI Perspectives: acting and thinking humanly, acting and thinking rationally
+
 History of AI
+
 Foundations of AI: Philosophy, Economics, Psychology, Sociology, Linguistic, Neuroscience, Mathematics, Computer Science, Control Theory
+
 Applications of AI 
 
 Intelligence:
