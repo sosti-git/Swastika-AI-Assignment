@@ -11,7 +11,7 @@ Foundations of AI: Philosophy, Economics, Psychology, Sociology, Linguistic, Neu
 
 Applications of AI 
 
-Intelligence: 
+Intelligence:  
 Intelligence is the ability to reason, ability to understand, ability to create, ability to learn from experience and ability to plan and execute complex task.
 
 Artificial Intelligence:
